@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/CRUD-frontend-ReactJs/static/css/main.f855e6bc.css",
+    "main.js": "/CRUD-frontend-ReactJs/static/js/main.71b9dd42.js",
+    "static/js/239.801fcb5a.chunk.js": "/CRUD-frontend-ReactJs/static/js/239.801fcb5a.chunk.js",
+    "static/js/977.3a85188e.chunk.js": "/CRUD-frontend-ReactJs/static/js/977.3a85188e.chunk.js",
+    "static/js/732.ab95aff1.chunk.js": "/CRUD-frontend-ReactJs/static/js/732.ab95aff1.chunk.js",
+    "static/js/453.1291b0ef.chunk.js": "/CRUD-frontend-ReactJs/static/js/453.1291b0ef.chunk.js",
+    "index.html": "/CRUD-frontend-ReactJs/index.html",
+    "main.f855e6bc.css.map": "/CRUD-frontend-ReactJs/static/css/main.f855e6bc.css.map",
+    "main.71b9dd42.js.map": "/CRUD-frontend-ReactJs/static/js/main.71b9dd42.js.map",
+    "239.801fcb5a.chunk.js.map": "/CRUD-frontend-ReactJs/static/js/239.801fcb5a.chunk.js.map",
+    "977.3a85188e.chunk.js.map": "/CRUD-frontend-ReactJs/static/js/977.3a85188e.chunk.js.map",
+    "732.ab95aff1.chunk.js.map": "/CRUD-frontend-ReactJs/static/js/732.ab95aff1.chunk.js.map",
+    "453.1291b0ef.chunk.js.map": "/CRUD-frontend-ReactJs/static/js/453.1291b0ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.71b9dd42.js"
+  ]
+}
